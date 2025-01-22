@@ -19,19 +19,3 @@ The **Grocery App** is a user-friendly mobile application developed with Flutter
 - **Provider / BLoC**: State management solutions for scalable and reactive UI.
 - **RESTful APIs**: For fetching product data and managing user-related operations.
 
-## Getting Started
-
-### Prerequisites
-
-Ensure that you have the following installed:
-
-- Flutter SDK: [Install Flutter](https://flutter.dev/docs/get-started/install)
-- Dart SDK: Comes bundled with Flutter
-- Firebase Account: [Firebase Console](https://console.firebase.google.com/)
-
-### Installation
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/YasmeenGad/Grocery-App.git
-
